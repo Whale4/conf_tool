@@ -1,0 +1,24 @@
+{
+  "terminal.integrated.shell.windows": "cmd.exe",
+  
+  //"terminal.integrated.shellArgs.windows": ["/k", "c:/esp-idf/export.bat"],
+  
+  "terminal.integrated.shellArgs.windows": ["/k", "C://.espressif//idf_cmd_init.bat"],
+  "files.associations": {
+    "*.md": "markdown",
+    "*.mdx": "tdx",
+    "stdio.h": "c",
+    "queue.h": "c",
+    "pid_app.h": "c",
+    "tachometer_app.h": "c",
+    "periph_ctrl.h": "c",
+    "array": "c",
+    "string": "c",
+    "string_view": "c",
+    "adc.h": "c",
+    "pcnt.h": "c",
+    "string.h": "c",
+    "sound_idle.h": "c",
+    "portmacro.h": "c"
+  }
+}
